@@ -1,0 +1,16 @@
+Organism,16S ribosomal RNA methyltransferase [ARO:3000857],Aminoglycoside Acetyltransferase (AAC3) [ARO:3000322],Aminoglycoside Acetyltransferase (AAC3-I) [ARO:3001205],Aminoglycoside Acetyltransferase (AAC6-I) [ARO:3001207],Aminoglycoside Acetyltransferase (AAC6-Ib) [ARO:3001206],Aminoglycoside Acetyltransferase (AAC6-II) [ARO:3001208],ATP-binding cassette (ABC) antibiotic efflux pump [ARO:0010001],adeB: membrane fusion protein of multidrug efflux complex [ARO:3000775],adeA-adeI: membrane fusion protein of multidrug efflux complex [ARO:3000774;ARO:3000780],adeC-adeK-oprM: outer membrane factor the multidrug efflux complex [ARO:3000776;ARO:3000782;ARO:3000379],adeS: gene modulating antibiotic efflux regulating AdeABC [ARO:3000549],adeR: positive regulator of AdeABC efflux system [ARO:3000553],Aminoglycoside Nucleotidyltransferase (ANT3) [ARO:3000232],Aminoglycoside Nucleotidyltransferase (ANT2) [ARO:3000230],protein_1399
+Agathobacter rectalis,3,15,6,7,7,0,9,6,3,5,8,1,11,6,11
+Prevotella sp.,3,6,5,11,23,13,2,10,3,34,6,20,22,12,3
+Dialister sp.,0,3,3,0,1,8,2,3,8,5,3,0,6,7,1
+Escherichia coli,0,2,0,5,7,4,0,2,0,12,0,7,0,0,0
+Dialister succinatiphilus,0,0,0,6,0,30,20,0,0,0,20,0,6,20,6
+Roseburia faecis,7,0,1,0,4,0,0,0,4,3,6,4,0,3,0
+Megamonas funiformis,0,0,18,0,0,9,0,0,1,0,4,16,0,8,3
+Phocaeicola plebeius,0,0,0,4,6,6,20,8,0,6,0,14,0,0,0
+Succinivibrio sp.,0,0,0,12,3,0,3,9,5,3,0,0,3,3,5
+Prevotella merdae,2,18,0,0,0,2,12,0,16,0,0,0,0,0,0
+Parabacteroides distasonis,0,3,0,0,0,0,8,0,8,0,0,8,0,18,3
+Catenibacterium faecis,0,0,8,14,6,0,0,0,4,0,6,0,0,0,0
+Megasphaera sp.,16,10,6,8,16,6,0,4,0,0,0,0,0,0,0
+Roseburia inulinivorans,0,1,4,3,3,0,0,3,0,0,0,0,3,14,1
+Alloprevotella sp.,5,0,0,0,0,0,0,10,2,0,8,0,6,3,0
